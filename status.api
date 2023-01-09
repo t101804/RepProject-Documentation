@@ -1,0 +1,4 @@
+revip = on
+revns = off
+revcidr = off
+datasetnewdomains = off
