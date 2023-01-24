@@ -1,4 +1,4 @@
-revip = on
-revns = off
-revcidr = off
-datasetnewdomains = off
+revip with cidr + rev ns = on
+rev-ns = off
+auto check cidr = off
+get subdomains from domain = off
