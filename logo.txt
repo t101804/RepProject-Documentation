@@ -1,0 +1,8 @@
+  ________        _________                     
+ /  _____/  ____ /   _____/ ____ _____    ____  
+/   \  ___ /  _ \\_____  \_/ ___\\__  \  /    \  Speciality for env and aws finder
+\    \_\  (  <_> )        \  \___ / __ \|   |  \  additional : wp-installer and database finder
+ \______  /\____/_______  /\___  >____  /___|  /
+        \/              \/     \/     \/     \/ 
+        
+Golang Scanner With Multiple Thread and http.Requests Optimized
