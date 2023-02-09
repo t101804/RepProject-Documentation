@@ -1,4 +1,0 @@
-revip with cidr + rev ns = on
-rev-ns = off
-auto check cidr = off
-get subdomains from domain = off
