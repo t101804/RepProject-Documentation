@@ -1,3 +1,4 @@
  - Reverse IP : ON -
+ - Reverse IP Auto CIDR : ON -
  - Reverse NS : OFF -
  - Reverse MailServer : OFF - 
