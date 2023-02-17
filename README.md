@@ -1,3 +1,11 @@
+# FULL-ACCESS FEATURES : 
+### - Reverse IP to A Records ( get best domain reverse ip lookup ) 
+### - Reverse NS to A Records ( get best domain reverse nameserver lookup ) 
+### - Reverse IP to NS Records ( get a nameserver records from the ip , best for lookuping tools and can use for option 1 ) 
+### - Reverse hostname ( get a hostname records from a ip such as amazonaws.com address and more ) 
+### - Option 1 with Auto CIDR 
+
+# Other resource that you get : 
 ## Grabber Tld
 ![image](https://user-images.githubusercontent.com/113588203/219699672-a8cac62c-d796-406f-92db-bb442fe953d1.png)
 
