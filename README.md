@@ -4,6 +4,7 @@
 ### - Reverse IP to NS Records ( get a nameserver records from the ip , best for lookuping tools and can use for option 1 ) 
 ### - Reverse hostname ( get a hostname records from a ip such as amazonaws.com address and more ) 
 ### - Option 1 with Auto CIDR 
+( The detail : https://t.me/RepProject/35 ) | ![image](https://user-images.githubusercontent.com/113588203/219701985-5669189e-bc8b-47e9-9372-58e0b4f5ab0e.png)
 
 # Other resource that you get : 
 ## Grabber Tld
