@@ -1,0 +1,61 @@
+{
+    "application": {
+        "apikey_repproject": "cokkontol",
+        "reqtimeout": 5,
+        "reqmaxbytes": "40mb",
+        "envpath": "env.txt"
+    },
+    "server": {
+        "server_reverse_ip": {
+          "all records ( grab all of records ) ": "https://repcyber.com/allreverse/",
+          "a records ( a tld domains only ) ": "https://repcyber.com/reverse/",
+          "ns records ( nameserver only ) ": "https://repcyber.com/revip_ns",
+          "mx recods ( mailserver only ) ": "https://repcyber.com/revip_mx/",
+          "cname records ( cname only ) ": "https://repcyber.com/revip_cname/"
+        },
+        "server_grabber": {
+          "grab ip records": "https://repcyber.com/vipgrab/ip/",
+          "grab amazon records": "https://repcyber.com/vipgrab/amazonaws.com/total/",
+          "grab tld domain records": ""
+        },
+        "server_utility": {
+          "analyze site / check cms and tech": "https://repcyber.com/analyzer/",
+          "cpanel checker": "https://repcyber.com/checker/cpanel"
+        }
+    },
+    "external_settings": {
+      "apikey_shodan": "",
+      "apikey_criminalip": "",
+      "apikey_netlas": "",
+      "apikey_leakix": ""
+    },
+    "custom_server": {
+        "ip grabber by bitvzero": {
+            "url": "http://bitverzo.com/recent_ip?p={page}",
+            "method": "get",
+            "custom_header": "",
+            "total_page": "100",
+            "post_data": "",
+            "regex": "",
+            "directly_save_without_regex": false
+        },
+        "web grabber by cubdomains": {
+            "url": "https://www.cubdomain.com/domains-registered-by-date/2023-07-09/{page}",
+            "method": "get",
+            "custom_header": "",
+            "total_page": "20",
+            "post_data": "",
+            "regex": "",
+            "directly_save_without_regex": false
+        },
+        "you can add your own server/site that you want to grab, set in settings":{
+            "url": "",
+            "method": "",
+            "custom_header": "",
+            "total_page": "",
+            "post_data": "",
+            "regex": "",
+            "directly_save_without_regex": false
+        }
+    }
+}
